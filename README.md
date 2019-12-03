@@ -1,2 +1,2 @@
 # DOC Base
-[DOC1](https://wlozano0collabora.github.io/doc1/readme.me)
+[DOC1](https://wlozano0collabora.github.io/doc1)
